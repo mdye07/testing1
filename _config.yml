@@ -20,12 +20,13 @@ source-code: https://github.com/mdye07/testing1
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: An Attempt at Building a Collection
+title: Rock and Mineral Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: A personal collection of rocks and minerals I have collected over the years
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "A personal collection of rocks and minerals I have collected over the years. Some have been gifted to me by friends 
+and family as they bring a souvenir from their own travels. Some I have acquired on my own. All will have either been found locally or bought from a store that collects locally."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Megan Dye
 
