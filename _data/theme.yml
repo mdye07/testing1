@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1200px-Cat_August_2010-4.jpg
+featured-image: https://upload.wikimedia.org/wikipedia/commons/c/c6/Marsh_Butte_and_Geikie_Peak%2C_Grand_Canyon.jpg
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 6em # Default is 8em
 # optional: change position of background image, center, top, bottom
