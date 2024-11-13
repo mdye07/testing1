@@ -1,0 +1,13 @@
+title,objectid,filename,format,mineralType,rockClass,date,dateAccepted,location,latitude,longitude,giver,texture,size,weight,color,description
+rsgf,rock001,RMC01.jpg,image/jpeg,,,2024-05,,Indiana,39.7691,86.1581,,,,,,
+dfhd,rock002,RMC02.jpg,image/jpeg,,Igneous,2013-03-16,2022-04-15,Indiana,39.7691,86.1581,"Doe, Jane",Brittle,6 x 8,7,pink,Pink quartz crystal
+dffd,rock003,RMC03.jpg,image/jpeg,,Sediment,2024-03,,Indiana,39.7691,86.1582,,,50 x 82,,,
+fbfgh,mineral001,RMC04.jpg,image/jpeg,Quartz,,2022-04,,Indiana,39.7691,86.1583,,,,,,
+dghgf,mineral002,RMC05.jpg,image/jpeg,Jadeite,,2021-05,,Indiana,39.7691,86.1584,"Fall, Emma",,,,,
+dgd,rock004,RMC06.jpg,image/jpeg,,Sandstone,2012-06,2013-06-07,Indiana,39.7691,86.1585,,,,,,
+sdfdfh,mineral003,RMC07.jpg,image/jpeg,Rose Quartz,,2003-07,,Indiana,39.7691,86.1586,"Falle, Joe",,,,,
+sfgdth,rock005,RMC08.jpg,image/jpeg,,Magma,2008-09,,Indiana,39.7691,86.1587,,,,,,
+fdshfth,rock006,RMC09.jpg,image/jpeg,,Ash,2014-09,2022-07,Indiana,39.7691,86.1588,,,,,,
+sfgyjtrfd,rock007,RMC10.jpg,image/jpeg,,Sediment,2013-05,,Indiana,39.7691,86.1589,"Saffa, Sarah",,,,,
+fhgdf,rock008,RMC11.jpg,image/jpeg,,Sediment,2013-05,,"Black Sand Beach, Iceland",63.4044,19.0517,,,,,,
+dfhrth,rock009,RMC12.jpg,image/jpeg,,Sediment,2014-09,,Denali National Park,63.7480682,-148.905163,,,,,,
