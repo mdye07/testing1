@@ -1,0 +1,26 @@
+title,objectid,filename,format,mineralType,rockType,rockClass,date,dateAccepted,location,latitude,longitude,giver,texture,size,weight,color,description
+Obsidian from Reykjavík,rock001,RMC09.jpg,image/jpeg,,Obsidian,Igneous,2024-03-13,2024-04-10,Reykjavík,64.14739347162373,-21.941708374979402,"Dye, Jess",Glassy,6 x 3 cm.,?,Black,"A shiny, glassy black rock. "
+Desert Rose from Arizona,mineral001,RMC10.jpg,image/jpeg,Desert Rose (Gypsum),,,2013-06,,Arizona,31.90396212234359,-110.22671177407426,,?,5.5 x 3 cm.,?,"Tan, White",Also known as Sand Rose
+"Shale from Mt. Washington, New Hampshire",rock002,RMC11.jpg,image/jpeg,,Shale,Sedimentary,2024-07-13,2024-07-24,"Washington, Mount (mountain)",44.27116824645312,-71.30344401086414,"Dye, Rick",Clastic,18 x 14 cm.,?????,"Grey, Brown",????????
+rsgf,rock003,RMC01.jpg,image/jpeg,,??????,?????,2024-07-15,2024-07-24,Vermont,43.66386812118138,-72.88621351126409,"Dye, Rick",?,?,?,??????,???
+Schist from Indiana,rock004,RMC02.jpg,image/jpeg,,Schist,Metamorphic,2013-03-16,2022-04-15,Arizona,36.405061182121045,-112.35352663355906,"Dye, Nick",?,?,?,??????,?
+Bornite from Georgia,mineral003,RMC03.jpg,image/jpeg,Bornite,,,2024-03,,"Atlanta, Georgia",33.75099126767165,-84.40924491626396,"Dye, Carrie",?,?,?,??????,?
+fbfgh,rock005,RMC04.jpg,image/jpeg,,???,????,2022-04,,Indiana,39.7691,86.1583,"Dye, Jane",?,?,?,??????,?
+dghgf,rock006,RMC05.jpg,image/jpeg,,???,????,2021-05,,Indiana,39.7691,86.1584,"Foster, Lauren",?????,???,?????,??????,??
+Calcite from Indiana,mineral004,RMC06.jpg,image/jpeg,Calcite,,,2012,2013-06-07,Indiana,??????,?????,"Dye, Jane",?????,????,?????,??????,???
+sdfdfh,rock007,RMC07.jpg,image/jpeg,,Basalt,Igneous,2024-03-15,2024-04-10,Indiana,39.7691,86.1586,"Falle, Joe",/????,/????,?????,Black,????
+sfgdth,rock008,RMC08.jpg,image/jpeg,,Wishing Rock,,2023-06,2023-12-25,Denali National Park,63.368247013195294,-150.79173785170707,"Dye, Jess",?????,????,?????,????/,?????
+qwe,rock009,RMC09.jpg,image/jpeg,,,,,,,,,,,,,,
+fgfghj,mineral006,RMC12.jpg,image/jpeg,,,,,,,,,,,,,,
+hgjgf,mineral007,RMC13.jpg,image/jpeg,,,,,,,,,,,,,,
+sdfs,rock011,RMC14.jpg,image/jpeg,,,,,,,,,,,,,,
+fgh,rock012,RMC15.jpg,image/jpeg,,,,,,,,,,,,,,
+sdfsd,rock013,RMC16.jpg,image/jpeg,,,,,,,,,,,,,,
+sdfsd,mineral008,RMC17.jpg,image/jpeg,,,,,,,,,,,,,,
+sdfsdf,mineral009,RMC18.jpg,image/jpeg,,,,,,,,,,,,,,
+sdfsdfgh,rock014,RMC19.jpg,image/jpeg,,,,,,,,,,,,,,
+dghdg,rock015,RMC20.jpg,image/jpeg,,,,,,,,,,,,,,
+gdhd,rock016,RMC21.jpg,image/jpeg,,,,,,,,,,,,,,
+gjkhfnb,rock017,RMC22.jpg,image/jpeg,,,,,,,,,,,,,,
+sfdgsdf,rock018,RMC23.jpg,image/jpeg,,,,,,,,,,,,,,
+dafdfhg,rock019,RMC24.jpg,image/jpeg,,,,,,,,,,,,,,
