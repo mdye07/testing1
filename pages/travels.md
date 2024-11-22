@@ -3,7 +3,7 @@ title: Travels
 layout: about
 permalink: /travels.html
 ---
-##Title
+#Title
 
 I'm lucky enough to have done a bit of travelling in my childhood. 
 
