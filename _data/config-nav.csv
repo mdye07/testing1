@@ -5,7 +5,9 @@ Subjects,/subjects.html
 Locations,/locations.html
 Map,/map.html
 Timeline,/timeline.html
-Data,/data.html
+Data,,
+Metadata,/data.html,Data
+RMCMAP,/RMCMAP.html,Data
 About,,
-Rocks,/rocks.html,About
-AbouttheCollection,/AbouttheCollection.html,About
+Basic Geography,/rocks.html,About
+About the Collection,/AbouttheCollection.html,About
