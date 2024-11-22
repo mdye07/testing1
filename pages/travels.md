@@ -11,7 +11,7 @@ One of the most memorable trips I took was out to Glacier National Park in Monta
 
 {% include feature/image.html objectid="RMC21" %}
 
-Another stop on that trip was in Butte, Montana. A very lovely town with a very rich history in mining. 
+Another stop on that trip was in Butte, Montana. A very lovely town with a very rich history in mining.  
 
 {% include feature/image.html objectid="RMC19g" %}
 
